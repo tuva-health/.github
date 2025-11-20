@@ -1,25 +1,10 @@
-# [Tuva Health](https://tuvahealth.com/)
+# [The Tuva Project](https://www.thetuvaproject.com)
 
-Build and control your healthcare data platform with Tuva and avoid starting from scratch. 
-Stop reinventing the wheel on common data models, data marts, terminology + value sets, and data quality. 
-100% open-source and free to use.
+Tuva is an open-source claims & clinical data model with built-in data quality, enrichment, and connectors to raw healthcare data sources.
 
-## [The Tuva Project](https://github.com/tuva-health/tuva)
+![diagram](/assets/the-tuva-project-3.jpg)
 
-![diagram](/assets/the_tuva_project.jpg)
-
-The Tuva Project code base includes a core data model, data marts, terminology
-sets, and data quality tests for doing healthcare analytics.
-
-## 🙋🏻‍♀️Contributing
-We created the Tuva Health to be a place where healthcare data practitioners
-can share their knowledge about doing healthcare analytics.  If you have ideas
-for improvements or find bugs, we highly encourage and welcome feedback! Feel
-free to create an issue or ping us on Slack.
-
-Check out our Contribution guide [here](https://thetuvaproject.com/contributing).
-<br/><br/>
-
-## 🤝Community
-Join our growing community of healthcare data people in 
-[Slack](https://join.slack.com/t/thetuvaproject/shared_invite/zt-16iz61187-G522Mc2WGA2mHF57e0il0Q)!
+- [Docs](https://www.thetuvaproject.com)
+- [Data Warehouse Support](https://thetuvaproject.com/data-warehouse-support/data-warehouse-support-overview)
+- [Contribution Guide](https://thetuvaproject.com/contributing)
+- [Slack Community](https://join.slack.com/t/thetuvaproject/shared_invite/zt-16iz61187-G522Mc2WGA2mHF57e0il0Q)
